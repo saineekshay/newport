@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Car Parking System",
+    "description": "A simulation of a smart car parking system built using C language.",
+    "github": "https://github.com/yourusername/car-parking-system"
+  },
+  {
+    "name": "Liquor Mart Online Service",
+    "description": "An e-commerce style platform for liquor delivery and management.",
+    "github": "https://github.com/yourusername/liquor-mart"
+  },
+  {
+    "name": "Generating Realistic Handwriting Using ML",
+    "description": "A machine learning project aimed at generating human-like handwriting from typed text.",
+    "github": "https://github.com/yourusername/realistic-handwriting"
+  },
+  {
+    "name": "Digital Notes",
+    "description": "Curated digital notes across various engineering branches for easy access and study support.",
+    "github": "https://github.com/yourusername/digital-notes"
+  },
+  {
+    "name": "Car Price Prediction",
+    "description": "Machine learning models predicting car resale value using various regression techniques.",
+    "github": "https://github.com/yourusername/car-price-prediction"
+  }
+]
+
